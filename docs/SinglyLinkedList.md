@@ -11,4 +11,4 @@ A singly linked list is a linear data structure in which each element (node) poi
 - `search(int val)`: Search for a node with the given value.
 - `display()`: Print all elements in the list.
 
-See [singly_linked_list.cpp](../src/singly_linked_list.cpp) for implementation, [../examples/singly_linked_list_example.cpp](../examples/singly_linked_list_example.cpp) for usage examples.
+See [singly_linked_list.cpp](../src/singly_linked_list.cpp) for implementation, [singly_linked_list_example.cpp](../examples/singly_linked_list_example.cpp) for usage examples.
